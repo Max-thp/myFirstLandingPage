@@ -1,0 +1,30 @@
+body {
+
+	background-image: linear-gradient(rgba(4, 7, 10, 0.5), rgba(4, 7, 10, 1.00)), url("http://educationsante.fr/wp-content/uploads/2019/09/casa-papel.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: none;
+	font-family: Roboto;
+	height: 100vh;
+}
+
+
+h1, h3, p {
+
+	color: #FFFFFF;
+}
+
+
+a {
+
+	font-family: Roboto;
+	color: #486866b3;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.masthead-brand {
+
+	color: #ab0115;
+	font-size: 36px;
+}
