@@ -8,12 +8,25 @@ body {
 	height: 100vh;
 }
 
+form {
+	margin: 100px auto;
+	
+}
 
-h1, h3, p {
+h1 {
+	color: #FFFFFF;
+	margin:	50px auto;
+}
+
+h3, p {
 
 	color: #FFFFFF;
 }
 
+label {
+
+	color: #f6f9fc;
+}
 
 a {
 
